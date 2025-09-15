@@ -29,10 +29,15 @@ A rough outline of what’s inside (and what’s coming as I continue learning):
 ---
 
 ## Learning Notes
-For each project or exercise, I try to add a short reflection including:  
-- **What I learned**  
-- **Challenges I faced**  
-- **Improvements I could make**  
+
+**What I learned:**  
+*(Add a short reflection on key concepts, techniques, or skills you picked up.)*
+
+**Challenges I faced:**  
+*(Note any difficulties or obstacles encountered while working on the project.)*
+
+**Improvements I could make:**  
+*(Ideas for refactoring, optimising, or better organising the code.)*
 
 ---
 
