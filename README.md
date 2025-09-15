@@ -37,7 +37,7 @@ For each project or exercise, I try to add a short reflection including:
 ---
 
 ## Note
-This repository is not intended to be a showcase of polished projects, but rather a record of growth and learning. Over time, the code here will become cleaner, more structured, and more complete.
+This repository is a record of growth and learning; it currently covers the first 75 days of the course, and is not intended to be a showcase of polished projects. Over time, the remaining days will be added, and the code here will become cleaner, more structured, and more complete.
 
 ---
 
