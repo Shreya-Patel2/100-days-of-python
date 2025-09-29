@@ -1,3 +1,3 @@
-# Day51-70
+# Days 82 - 100
 
-This folder contains code and exercises for Day51-70.
+This folder contains my projects over Days 82-100, the "professional" days of [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=MT250915G4)
