@@ -5,7 +5,7 @@ This repository contains my project scripts written while completing [100 Days o
 ---
 
 ## About
-I've created this repo to track my improvements over time as I learn Python from the ground up. It’s very much a work in progress, with some projects being complete, and others continually evolving as I revisit and improve them.
+I've created this repo to track my improvements over time as I learn Python from the ground up. It’s very much a work in progress, with some projects being complete, and others continually evolving as I revisit and improve them. Some projects were created from scratch, while others were built on top of the provided starting files. 
 
 ---
 
