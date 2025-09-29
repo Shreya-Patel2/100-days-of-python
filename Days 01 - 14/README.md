@@ -1,3 +1,3 @@
-# Day01-10
+# Days 01-14
 
-This folder contains code and exercises for Day01-10.
+This folder contains code and exercises for Days 01-14.
