@@ -20,9 +20,9 @@ I've created this repo to track my improvements over time as I learn Python from
 A rough outline of what’s inside (and what’s coming as I continue learning:
 
 - Days 01 – 14 → Data Types, Logical Operators, Lists, Loops, Functions, Dictionaries, Scope, Debugging
-- Days 15 – 31 → OOP, GUI, Higher Order Functions, Inheritance, CSVs, List Comprehension, Tkinter, JSON Data, Exceptions  
-- Days 32 – 58 → Datetime, APIs, Environment Variables, Web Foundation, Selenium, Beautiful Soup, Flask, Bootstrap
-- Days 59 – 81 → Databases, SQLite, SQLAlchemy, Github, Version Control, Pandas, Matplotlib, Plotly, NumPy, Seaborn
+- Days 15 – 31 → OOP, GUI, Higher Order Functions, Inheritance, CSVs, List Comprehension, Tkinter, JSON Data  
+- Days 32 – 58 → Datetime, APIs, Web Foundation, Selenium, Beautiful Soup, Flask, Bootstrap
+- Days 59 – 81 → Databases, SQLAlchemy, Github, Version Control, Pandas, Matplotlib, Plotly, NumPy, Seaborn
 - Days 82 – 100 → Professional Projects 
 
 
