@@ -1,6 +1,6 @@
 # 100 Days of Code – My Progress Learning Python
 
-This repository contains my project scripts written while completing [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=MT250915G4) course on Udemy.
+This repository contains my project scripts written while completing [100 Days of Code: The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/?couponCode=MT250915G4) course on Udemy. Where required, it also contains the supporting files supplied by the course creater.
 
 ---
 
