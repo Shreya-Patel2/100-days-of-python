@@ -34,4 +34,4 @@ This repository is a record of growth and learning; it currently covers the firs
 
 ---
 
-Thanks for checking out my coding journey! :)
+Thanks for checking out my coding journey!
